@@ -6,7 +6,7 @@
 
 - Part 2:
 	- I will be honest it was the first time I was doing RestAPI + Tomcat, and I believe, I failed.
-	- Solution should work, however, I was struggling with configuration and dependencies. 
+	- Solution idea should work, however, I was struggling with configuration and dependencies. 
 	- Many dependencies did not fully work out for part two. 
 	- I still added my solution.
 	- I was running Tomcat as local server.
